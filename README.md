@@ -22,7 +22,7 @@ This project marks the 9th week of Data Science study, and 12th week of coding I
 
 # Content
 
-This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, and FR regions (USA, Great Britain, Germany, Canada, and France, respectively), with up to 200 listed trending videos per day. I chose to yse only the English primary language sets due to UTF-8 parsing restrictions from the other languages.
+This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, CA (USA, Great Britain, Canada, respectively), with up to 200 listed trending videos per day. I chose to yse only the English primary language sets due to UTF-8 parsing restrictions from the other languages.
 
 Each region’s data is in a separate file. Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
