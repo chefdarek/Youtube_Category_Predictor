@@ -20,8 +20,6 @@ Where to go from here?
 
 It would be advantageous to also further extened a word bank for each category denoting various labels as well as analyzing the thumbnail and video in a CNN. Although the results show it is possible categorize the videos with a fair degree of accuracy and precision the recall faltered below what I believe a production ready model would need.
 
-This project marks the 9th week of Data Science study, and 12th week of coding I have pursued in 2019. Prior to this I have had no experience with either topics.
-
 # Content
 
 This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, CA (USA, Great Britain, Canada, respectively), with up to 200 listed trending videos per day. I chose to yse only the English primary language sets due to UTF-8 parsing restrictions from the other languages.
