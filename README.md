@@ -1,11 +1,11 @@
 # Youtube_Category_Predictor
-Is it possible to build an accurate model to predict/autogenerate category tags based on sparse user data?
+Is it possible to build an accurate model to predict/autogenerate category tags based on sparse user data? What if you have only coded for 12 weeks and studied data for 9 weeks?
 
 CSV files are located here https://drive.google.com/file/d/1w-S_nxqNxHIAbKK-B5_1R9bagUSoFufV/view?usp=sharing
 
 # Failure as an investment in future success
 
-Going into this project I read numerous methods that would probably render better results. It is however a very real and practical problem websites face or have faced. It was not my goal to definitively prove my hypothesis, but to explore the various weaknesses in the models so that I might better understand how they works and what the strengths and weaknesses are when approaching problems in the future. Often times in education on topics the ideal solutions are focused on ideal solutions handed over rather than the building up of options from a historical perspective. Following a path that winds through past failures is where many of the successes in ML have are found and without that I believe people loose perspective and intuition. This is undoubtedly a naive attempt at a complex problem. However, I acquired a far better understanding of NLP, Precision, Recall, F1, AUC and ROC evaluation metrics, and confusion matrices.
+Going into this project I read numerous methods that would probably render better results. It is however a very real and practical problem websites face or have faced. It was not my goal to definitively prove my hypothesis, but to explore the various weaknesses in the models so that I might better understand how they works and what the strengths and weaknesses are when approaching problems in the future. Often times in education on topics the ideal solutions are focused on answers handed over rather than the building up of options from a historical perspective. Following a path that winds through past failures is where many of the successes in ML have are found and without that I believe people loose perspective and intuition. This is undoubtedly a naive attempt at a complex problem. However, I acquired a far better understanding of NLP, Precision, Recall, F1, AUC/ROC evaluation metrics, and confusion matrices.
 
 # Hypothesis
 
